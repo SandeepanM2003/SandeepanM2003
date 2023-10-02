@@ -9,7 +9,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" height="270" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif"> 
+<img align="right" alt="Coding" width="500" height="300" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif"> 
 
     
 - 🌱 I’m currently learning Machine learning and Competitive Programming.
