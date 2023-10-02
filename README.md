@@ -16,7 +16,7 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play badminton and basketball
 - 👯 I’m looking to collaborate on Basic ML Projects
-- My UI/UX works-<code>[Click Here](https://linktr.ee/worksfigma)</code>
+
  
  <br>
  <br>
